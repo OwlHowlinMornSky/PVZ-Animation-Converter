@@ -1,8 +1,8 @@
 # PVZ Animation Converter
  View and convert PVZ animation (.reanim file)
  
-2022/11/28 version 0.1alpha
->>> JUST EXPERIMENTAL <<<
+## 2022/11/28 version 0.1alpha
+### < JUST EXPERIMENTAL >
  
 Now can read:
  PVZ 1
